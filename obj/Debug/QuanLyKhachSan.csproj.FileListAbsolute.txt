@@ -1,0 +1,9 @@
+D:\thuchanhc#\Solution1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\thuchanhc#\Solution1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\thuchanhc#\Solution1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyKhachSan.resources
+D:\thuchanhc#\Solution1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\thuchanhc#\Solution1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\thuchanhc#\Solution1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\thuchanhc#\Solution1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\thuchanhc#\Solution1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\thuchanhc#\Solution1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
